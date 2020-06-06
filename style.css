@@ -1,13 +1,13 @@
 body{
 	background-color: grey;
 	font-family:italic;
-	color:purple;
+	color:blue;
 	font-size:16px;
 }
 .first-container{
-	background-color: black;
+	background-color: lightgreen;
 	width: 100%;
-	border:3px purple;
+	border:3px blue;
 }
 .second-container{
 	background-color: lightblue;
@@ -71,7 +71,7 @@ margin-bottom: 30px;
 	text-align: center;
 	}
 	.third-container{
-		background-color: lightpink;
+		background-color: lightblue;
 	}
 .Fourth-container {background-color: lightblue;
 	padding:10px;
